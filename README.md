@@ -34,4 +34,10 @@ Just load this and SNUB Hook will optimize your game for you.
 loadstring(game:HttpGetAsync("https://udkpg.github.io/snub/snub_version/snub_385.lua"))()
 ```
 
+## Latest console log.
+
+```css
+ https://udkpg.github.io/snub/snub_version/snub_changelog/latestConsole.log
+```
+
 No docs cuz no functions.
