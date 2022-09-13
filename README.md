@@ -25,3 +25,11 @@ made with :heart: **udkpg**
 # v380 changelog
  - Compatibility version for `version-7ab633hc47aL5123`
 ```
+## Loadstring
+
+Just load this and SNUB Hook will optimize your game for you.
+```lua
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/udkpg/snub-api/main/snub.lua"))()
+```
+
+No docs cuz no functions.
