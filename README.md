@@ -29,7 +29,9 @@ made with :heart: **udkpg**
 
 Just load this and SNUB Hook will optimize your game for you.
 ```css
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/udkpg/snub-api/main/snub.lua"))()
+-- Latest version of SNUB [{verison]
+
+loadstring(game:HttpGetAsync("https://udkpg.github.io/snub/snub_version/snub_385.lua"))()
 ```
 
 No docs cuz no functions.
