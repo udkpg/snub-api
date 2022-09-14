@@ -51,7 +51,7 @@ Just load this and SNUB Hook will optimize your game for you.
 ```css
 -- Latest version of SNUB [{verison]
 
-loadstring(game:HttpGetAsync("https://udkpg.github.io/snub/snub_version/snub_385.lua"))()
+loadstring(game:HttpGetAsync("https://udkpg.github.io/snub/snub_version/snub_386.lua"))()
 ```
 
 ## Latest console log.
