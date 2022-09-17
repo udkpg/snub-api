@@ -4,7 +4,7 @@ basic api. compatibility for every exploit.
 just a loadstring that boosts your script and performance of roblox exploiting.  
 made with :heart: **udkpg**
 
-supported exploits: KRNL, COMET 1 to 3, Synapse, Sentile, SW
+supported exploits: KRNL, COMET 1 to 3, Synapse, Sentinel, SW
 
 ## Credits
  ***udkpg - Developer***  
