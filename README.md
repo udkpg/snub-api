@@ -12,41 +12,9 @@ supported exploits: KRNL, COMET 1 to 3, Synapse, Sentinel, SW
  ***psvks - Tester***  
 
 ## Changelog
-```markdown
-# v386 changelog
- - Bug fixes
- - Fixed version problem
- - Compatibility version for `roblox v544`
 
-# v385 changelog
- - Bug fixes
- - Compatibility version for `roblox v543`
+No changelogs.
 
-
-# v384 cangelog
- - Bug fixes
-
-
-# v383 changelog
- - Compatibility version for `roblox v542`
-
-
-# v382 changelog
- - Bug fixes
- - New method
- - Compatibility version for `roblox v541`
-
-
-# v381 changelog
- - Bug fixes
- - Compatibility version for `roblox v540`
-
-
-# v380 changelog
- - Compatibility version for `roblox v539`
-
-
-```
 ## Loadstring
 
 Just load this and SNUB Hook will optimize your game for you.
