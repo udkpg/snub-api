@@ -16,7 +16,7 @@ supported exploits: KRNL, COMET 1 to 3, Synapse, Sentinel, SW
 # v386 changelog
  - Bug fixes
  - Fixed version problem
-
+ - Compatibility version for `roblox v544`
 
 # v385 changelog
  - Bug fixes
