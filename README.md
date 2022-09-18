@@ -17,12 +17,7 @@ No changelogs.
 
 ## Loadstring
 
-Just load this and SNUB Hook will optimize your game for you.
-```css
--- Latest version of SNUB [{verison]
-
-loadstring(game:HttpGetAsync("https://udkpg.github.io/snub/snub_version/snub_386.lua"))()
-```
+Please check the releases page for the latest versions.
 
 ## Latest console log.
 
@@ -30,4 +25,3 @@ loadstring(game:HttpGetAsync("https://udkpg.github.io/snub/snub_version/snub_386
  https://udkpg.github.io/snub/snub_version/snub_changelog/latestConsole.log
 ```
 
-No docs cuz no functions.
