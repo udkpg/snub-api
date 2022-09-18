@@ -1,4 +1,4 @@
-# snub-api
+# snub-hook
 basic api. compatibility for every exploit.
 
 just a loadstring that boosts your script and performance of roblox exploiting.  
